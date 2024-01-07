@@ -1,0 +1,1 @@
+always check the components for the hover state in figma.
